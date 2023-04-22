@@ -14,3 +14,15 @@ code .\index.html
 
 Valuable short cut:
 div.item*3{Item $}
+
+GitHub Pages:
+Note: make sure main html file is always called "index.html"
+After code push, Navigate to Settings - Pages.
+Under Build and deployment, choose source as Deploy from a branch
+Branch: master
+Click on Save 
+
+Below msg will be displayed:
+Your GitHub Pages site is currently being built from the master branch.
+
+Generated URL: https://mahanteshtalikoti-git.github.io/sass_crash_course/
